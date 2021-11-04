@@ -1,7 +1,7 @@
 # Radio-com-arduino
 Radio feito com arduino 
 
-<img src="https://github.com/joaoryan/Radio-com-arduino/blob/main/1.png" width="250px" height="300px" /><img src="https://github.com/joaoryan/Radio-com-arduino/blob/main/2.png" width="250px" height="300px"/><img src="https://github.com/joaoryan/Radio-com-arduino/blob/main/3.png" width="250px" height="300px"/>
+<img src="https://github.com/joaoryan/Radio-com-arduino/blob/main/1.png" width="260px" height="310px" /><img src="https://github.com/joaoryan/Radio-com-arduino/blob/main/2.png" width="260px" height="310px"/><img src="https://github.com/joaoryan/Radio-com-arduino/blob/main/3.png" width="260px" height="310px"/>
 
 
 
